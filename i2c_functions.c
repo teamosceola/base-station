@@ -1,6 +1,6 @@
 // *********************************************************************************
 // *****	i2c_functions.c													********
-// *****	Richard Manley	-	21 July 2010								********
+// *****	Christopher Crews	-	21 July 2010							********
 // *****	device i2c_open(void)	// opens i2c port						********
 // *****	void i2c_close(device)	// closes i2c port						********
 // *****	int i2c_read(device, address, register, data array, data count)	********
