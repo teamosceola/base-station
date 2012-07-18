@@ -1,5 +1,5 @@
 // *********************************************************************************
-// *****	Richard Manley 	17 Jan 2011										********
+// *****	Christopher Crews 	17 Jan 2011									********
 // *****	Program Name:	draw_altitude.c									********
 // *****	Takes an integer input and prints it to the screen using SDL	********
 // *********************************************************************************
@@ -23,7 +23,7 @@
 void Draw_Lat(SDL_Surface* p_DisplayS, float v_data, int v_GPS_Fix)
 {
 // *********************************************************************************
-// ***** Veriabel Deleration 												********
+// ***** Variabls Deleration 												********
 const char v_lable[] = "Lat";
 char v_data_string[20];
 TTF_Font* p_Font_Label;
