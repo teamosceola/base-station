@@ -1,5 +1,5 @@
 // *********************************************************************************
-// *****	Richard Manley	-	10 January 2010								********
+// *****	Christopher Crews	-	10 January 2010							********
 // *****	Program Name:		compass.c									********
 // *****	the compass.c file contains all the functions					********
 // *****	to read the compass i2c data									********
